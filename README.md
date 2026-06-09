@@ -148,7 +148,7 @@ Optimize transaction processes.
 Support strategic financial planning.
 
 📸 Dashboard Screenshot
-
+https://github.com/sayyadbasha414/Financial-Transactions-Analytics-PowerBI/blob/main/Financial%20Analysis%20Dashbaord.png
 
 📋 Key Insights
 Successful transactions contribute the majority of total transaction value.
